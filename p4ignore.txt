@@ -1,0 +1,17 @@
+Binaries
+Build
+DerivedDataCache
+Intermediate
+Saved
+
+Collections
+Developers
+
+# Built data for maps
+*_BuiltData.uasset
+
+.idea
+.vs
+.vsconfig
+*.sln
+*.uproject.DotSettings.user
